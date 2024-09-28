@@ -7,12 +7,12 @@
       "create_function_url": true,
       "description": null,
       "environment_variables": {
-        "IMAGES_BUCKET": "kitty-blu"
+        "IMAGES_BUCKET": "kitty-blu-2002"
       },
       "event_source_arn": null,
       "event_source_mapping": [],
       "filename": null,
-      "function_name": "hello-kitty-function-blu",
+      "function_name": "hello-kitty-function-blu-20022",
       "handler": "main.lambda_handler",
       "log_format": null,
       "log_group_name": "${module.appcd_86ec452a-770a-59bf-87dd-67ed883e25e5.name}",
@@ -32,7 +32,7 @@
     },
     "appcd_551e1d2b-88ec-5406-87cf-c51521bbe894": {
       "block_public_access": true,
-      "bucket_name": "kitty-blu",
+      "bucket_name": "kitty-blu-2002",
       "bucket_policy": "",
       "enable_versioning": true,
       "enable_website_configuration": false,
